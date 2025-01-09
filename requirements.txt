@@ -6,3 +6,4 @@ pyreadstat
 seaborn
 matplotlib
 requests
+statsmodels
